@@ -4,7 +4,7 @@ date: 2020-08-31T20:00:47+08:00
 draft: false
 
 # post thumb
-image: "images/post/Chadwick_Boseman.jpeg"
+image: "images/post/Colon_Ca_death.jpeg"
 
 # meta description
 description: "colorectal cancer"
